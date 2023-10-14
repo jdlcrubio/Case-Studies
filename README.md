@@ -1,7 +1,7 @@
 <h1>Hi, I'm Juan! </h1>
 
 <h2> Biography</h2>
-  Hello, my name is Juan Rubio. I am currently a drywall finisher working for a small central texas company. Also, I am student always looking to expand my education and knowledge. Recently, I completed the Google Data Analytics certificate. Data analysis and what it entails appealed to me while taking a data analytics course in college. I graduated from Texas A&M University - San Antonio with a Bachelor of Business in computer science. I aspire to obtain a role as a full time Junior Data Analyst. 
+  Hello, my name is Juan Rubio. I am currently a drywall finisher working for a small central texas company. Also, I am a student always looking to expand my education and knowledge. Recently, I completed the Google Data Analytics certificate. Data analysis and what it entails appealed to me while taking a data analytics course in college. I graduated from Texas A&M University - San Antonio with a Bachelor of Business in computer science. I aspire to obtain a role as a full time Junior Data Analyst. 
 
 <h2> Education/Certifications:</h2>
 
