@@ -16,7 +16,7 @@
 <h2>  Data Analysis Projects:</h2>
 
 - <b>Case Studies</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bellabeat Case Study](https://github.com/jdlcrubio/Bellabeat)
 
 
 <!--
