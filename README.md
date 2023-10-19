@@ -11,7 +11,6 @@
 <h2> Accomplishments</h2>
 - The Dream.US scholarship recipient 
 
-<h2> Resume</h2>
 
 <h2>  Data Analysis Projects:</h2>
 
